@@ -1,0 +1,24 @@
+.results {
+    background-color: #2D1457;
+    color: white;
+    border-radius: 5px;
+}
+
+.mute {
+    color: rgb(181, 181, 181);
+    font-size: small;
+}
+
+.songTitle {
+    font-size: larger;
+}
+
+.custom-btn {
+    background-color: #A58ADE;
+    color: white;
+}
+
+.custom-btn:hover {
+    border-color: #A58ADE;
+    color: #A58ADE;
+}

@@ -1,0 +1,14 @@
+.SearchBar {
+    text-align: center;
+    padding: 20px;
+}
+
+.search-btn {
+    background-color: #2d1457;
+    color: white;
+}
+
+.search-btn:hover {
+    border-color: #2d1457;
+    color: #2d1457;
+}
