@@ -1,0 +1,52 @@
+[
+    {
+        "id": "3sW3oSbzsfecv9XoUdGs7h",
+        "name": "Enchanted (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "album": "Speak Now",
+        "img": "enchanted.png"
+    },
+    {
+        "id": "30Y4CV7A6YqtQtTTo7Ue4j",
+        "name": "Mean (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "album": "Speak Now",
+        "img": "enchanted.png"        
+    },
+    {
+        "id": "3MytWN8L7shNYzGl4tAKRp",
+        "name": "Sparks Fly (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "album": "Speak Now",
+        "img": "enchanted.png"        
+    },
+    {
+        "id": "79uDOz0zuuWS7HWxzMmTa2",
+        "name": "Back To December (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "album": "Speak Now",
+        "img": "enchanted.png"        
+    },
+    {
+        "id": "5xXqyjLicvEpch72qEryFT",
+        "name": "Speak Now (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "album": "Speak Now",
+        "img": "enchanted.png"        
+    },
+    {
+        "id": "7HuBDWi18s4aJM8UFnNheH",
+        "name": "King of my Heart",
+        "artist": "Taylor Swift",
+        "album": "Reputation",
+        "img": "reputation.png"        
+    },
+    {
+        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "img": "lover.png"        
+    }
+
+]

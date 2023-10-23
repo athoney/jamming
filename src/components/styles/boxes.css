@@ -22,3 +22,15 @@
     border-color: #A58ADE;
     color: #A58ADE;
 }
+
+input {
+    background-color: #2D1457;
+    color: white;
+    border: none;
+    border-bottom: 2px white solid !important;
+    width: 100%;
+}
+
+input:focus {
+    outline: none !important;
+}

@@ -1,0 +1,26 @@
+{
+    "playlist": "Miss Swift",
+    "songs": [
+        {
+            "id": "0NwGC0v03ysCYINtg6ns58",
+            "name": "Better Than Revenge (Taylor's Version)",
+            "artist": "Taylor Swift",
+            "album": "Speak Now",
+            "img": "enchanted.png"        
+        },
+        {
+            "id": "5PxFv9yJEg9dxvbZggykro",
+            "name": "So It Goes...",
+            "artist": "Taylor Swift",
+            "album": "Reputation",
+            "img": "reputation.png"        
+        },
+        {
+            "id": "1SymEzIT3H8UZfibCs3TYi",
+            "name": "Afterglow",
+            "artist": "Taylor Swift",
+            "album": "Lover",
+            "img": "lover.png"        
+        }
+    ]
+}
